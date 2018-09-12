@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AYINetwork_Example' do
+  pod 'AYINetwork', :path => '../'
+
+  target 'AYINetwork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

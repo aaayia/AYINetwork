@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AYINetwork (0.1.0):
+    - Alamofire
+    - SwiftyJSON (~> 3.1.4)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AYINetwork (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  AYINetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AYINetwork: d118f9c19f178b16bbb8c125b60d544968549738
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: acfa7c3cba2d0cbc4cc9b7104ee1caee0c000822
+
+COCOAPODS: 1.5.2

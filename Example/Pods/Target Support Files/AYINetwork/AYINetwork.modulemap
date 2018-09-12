@@ -1,0 +1,6 @@
+framework module AYINetwork {
+  umbrella header "AYINetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

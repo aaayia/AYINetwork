@@ -1,0 +1,6 @@
+framework module Pods_AYINetwork_Tests {
+  umbrella header "Pods-AYINetwork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
